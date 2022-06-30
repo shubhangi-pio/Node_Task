@@ -1,33 +1,6 @@
 {
   "users": [
     {
-      "id": {
-        "id": 1
-      }
-    },
-    {
-      "id": 4
-    },
-    {
-      "name": "test1",
-      "id": 5
-    },
-    {
-      "name": "shubhangi",
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "name": "xyz",
-      "id": "HRZzVVa"
-    },
-    {
-      "name": "io",
-      "id": "USK-Cac"
-    },
-    {
       "name": "io",
       "cost": 10,
       "desc": "good123",
